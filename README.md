@@ -1,2 +1,6 @@
 # ccie-sp-v4.1
-CCIE Service Provider Stuff
+CCIE Service Provider Files and Diagrams etc
+
+EVE Virtual Lab
+---------------
+I am using EVE (http://www.eve-ng.net/index.php) for my studies. I did use GNS3 and VIRL before and may use them again. EVE however just seems easier to me for some reason I just found it intuitive. Teh EVE environment is currently running a direct copy of the VIRL topology from INE SPv4. 
